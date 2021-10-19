@@ -1,0 +1,21 @@
+.service {
+  transition: all 0.4s ease-in-out;
+}
+.service:hover {
+  transform: translate(0px, -10px);
+  box-shadow: 0px 8px 11px 4px rgb(158 158 158 / 10%) !important ;
+}
+.service-image {
+  position: relative;
+  overflow: hidden;
+}
+.service-image img {
+  transition: all 0.4s ease-in-out;
+  width: 100%;
+}
+.service-image img:hover {
+  transform: scale(1.1);
+}
+.lazy-loaded {
+  opacity: 1;
+}

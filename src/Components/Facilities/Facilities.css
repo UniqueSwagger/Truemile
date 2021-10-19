@@ -1,0 +1,42 @@
+.video-bg-img {
+  background-color: #eee;
+  text-align: center;
+  height: 355px;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 35px;
+}
+
+.video-play-button {
+  height: 57px;
+  width: 57px;
+  background: #fc5185;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  line-height: 57px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  font-weight: 700;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.single-video-item {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.single-video-item h5 {
+  color: #818181;
+}
+
+.video-play-button:hover {
+  box-shadow: 10px 15px 40px rgba(0, 0, 0, 0.06);
+  color: #fff;
+}
+
+.section-text-wrap a {
+  margin-top: 40px;
+}

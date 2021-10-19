@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dental Fillings",
+    "shortDescription": "A dental filling is a procedure used to fill a hole, or cavity, in a tooth. You may need a filling if you have tooth decay or if the structure of the tooth is lost due to trauma.",
+    "image": "https://i.ibb.co/R6cHHJG/dental-filling.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Root Canal Treatment",
+    "shortDescription": "Root canal treatment is a dental procedure used to treat infection at the centre of a tooth.Root canal treatment is not painful and can save a tooth that might otherwise have to be removed completely.",
+    "image": "https://i.ibb.co/c2FBTV3/root-canal.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Orthodontics",
+    "shortDescription": "Orthodontics therefore describes the practice of straightening misaligned teeth or malocclusions. Dentists who specialize in orthodontics can help manage abnormal positioning of the teeth, jaws and face.",
+    "image": "https://i.ibb.co/ZzvkDCm/Depositphotos-18730979-original.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Teeth Whitening",
+    "shortDescription": "Tooth whitening is any process that lightens the color of a tooth. Whitening may be accomplished by physical removal of the stain or a chemical reaction to lighten the tooth color.",
+    "image": "https://i.ibb.co/JQnPvFh/teeth-whitening.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tooth Extraction",
+    "shortDescription": "Tooth extraction refers to the complete removal of one or more teeth from the mouth. This is a procedure that is usually performed by a dental surgeon.",
+    "image": "https://i.ibb.co/VDX6sb5/Depositphotos-66190445-original.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Routine Dental Exam",
+    "shortDescription": "Regular dental exams are a critical part of preventive health care. During a dental exam, the dentist or hygienist will clean your teeth and check for cavities and gum disease.",
+    "image": "https://i.ibb.co/5cm2KXP/dental-exam.jpg"
+  }
+]

@@ -1,0 +1,123 @@
+.hero-slide-left h1 {
+  font-size: 67px;
+  line-height: 80px;
+}
+.hero-slide-left p {
+  font-size: 16px;
+  line-height: 30px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+@media (min-width: 991px) {
+  .hero-slide-left {
+    padding-right: 60px;
+  }
+}
+
+.hero-slide-left p {
+  color: #ddd;
+}
+
+.hero-slide-left h1 {
+  font-size: 62px;
+  line-height: 75px;
+  margin-bottom: 20px;
+}
+
+.hero-slide-left h2 {
+  font-size: 36px;
+}
+
+.hero-slide-left a {
+  margin-top: 40px;
+}
+.hero-slide-right {
+  position: relative;
+  background-image: url("../../images/heroImage/hero-bg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  display: flex;
+  align-items: flex-end;
+}
+.hero {
+  background: #004caa;
+  position: relative;
+  padding: 100px 0;
+  border-radius: 35px;
+}
+.animate-img {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 22;
+}
+
+.animate-img .img-1 {
+  left: -91px;
+  position: absolute;
+  animation: move-bounce 0.7s ease-in-out 0.1s infinite alternate;
+  bottom: 40px;
+}
+
+.animate-img .img-2 {
+  margin-left: 88px;
+  animation: move-bounce 1s ease-in-out 0.2s infinite alternate;
+  bottom: 30px;
+}
+.theme-btn:hover {
+  background: #fff;
+  color: #000;
+  border-color: #fff;
+}
+
+.theme-btn {
+  display: inline-block;
+  border-width: 1px;
+  border-color: #ff8a8b;
+  border-style: solid;
+  height: 61px;
+  text-align: center;
+  line-height: 55px;
+  padding: 0px 55px;
+  background: #ff8a8b;
+  color: #fff;
+  text-transform: capitalize;
+  transition: 0.4s;
+  position: relative;
+  z-index: 2;
+  border-radius: 3px;
+}
+
+.theme-btn.btn_black {
+  border-color: #fff;
+  color: #fff;
+  background: transparent;
+  transition: 0.4s;
+}
+
+.theme-btn.btn_black:hover {
+  border-color: #ff8a8b;
+  color: #fff;
+  background: #ff8a8b;
+}
+
+.theme-btn.fill-btn {
+  margin-right: 20px;
+}
+
+.text-white .btn_black:hover {
+  color: #fff;
+}
+
+@keyframes move-bounce {
+  from {
+    transform: translateY(20px);
+  }
+  to {
+    transform: translateY(-20px);
+  }
+}

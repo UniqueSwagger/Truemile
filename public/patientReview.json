@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Consolation",
+    "image": "https://i.ibb.co/1m0kKrM/love.png",
+    "text": "I love Trusmile Dental Care and Orthodontics! Not only are they fully competent and thorough but they're warm and friendly. They make sure you're comfortable, that your wait times are short, and the dentists explain whatever treatment you're receiving in detail. I highly recommend them!",
+    "reviewer": "Lydia MLydia M"
+  },
+  {
+    "id": 2,
+    "title": "Familiarity",
+    "image": "https://i.ibb.co/sHwWQSL/more-love.png",
+    "text": "All my kids go there and enjoy the dentist and staff. Never once have they complained about the procedures they underwent. On a side note, my 15 year old loves to go there so she can jam out to the 80s music.",
+    "reviewer": "James B"
+  },
+  {
+    "id": 3,
+    "title": "Outcome",
+    "image": "https://i.ibb.co/VHbLwhM/shake.png",
+    "text": "Best dental service I have ever received. Made me, the customer, feel like their sole priority. Staff was engaging and knowledgeable, but more importantly did not mind spending the extra time to educate me about procedures/precautions. Outstanding.",
+    "reviewer": "Rahman Khan"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://i.ibb.co/3mf6skx/dentistry.png",
+    "title": "Complete Dentistry",
+    "text": "Complete dentistry is an absolutely essential concept to our dentists and staff members here at Jacksonville Complete Dentistry – but what does it mean, exactly? It’s actually pretty simple. It means looking outside of just the teeth and gums when caring for a patient."
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://i.ibb.co/pwb6dsG/selants.png",
+    "title": "Dental Sealants",
+    "text": "Dental sealants are thin coatings that when painted on the chewing surfaces of the back teeth (molars) can prevent cavities (tooth decay) for many years. Sealants protect the chewing surfaces from cavities by covering them with a protective shield that blocks out germs and food."
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://i.ibb.co/f0dv4Fh/dictionary.png",
+    "title": "Dental Dictionary",
+    "text": "This first edition of A Dictionary of Dentistry provides over 4,000 definitions covering all the important terms and concepts used in dentistry today. Entries are written in clear and concise English without the use of unnecessary dental or medical jargon, and many entries are supplemented by detailed line drawings."
+  },
+  {
+    "id": 4,
+    "imgUrl": "https://i.ibb.co/0yCQ3PX/implants.png",
+    "title": "Dental Implants",
+    "text": "Dental implant surgery is a procedure that replaces tooth roots with metal, screwlike posts and replaces damaged or missing teeth with artificial teeth that look and function much like real ones"
+  },
+  {
+    "id": 5,
+    "imgUrl": "https://i.ibb.co/Ykbp5bV/oral.png",
+    "title": "Oral Surgery",
+    "text": "Oral surgery refers to any surgical procedure performed in or around your mouth and jaw, usually by a dental specialist who’s trained to perform certain kinds of oral surgeries."
+  },
+  {
+    "id": 6,
+    "imgUrl": "https://i.ibb.co/r5x2B8R/general.png",
+    "title": "General Dentistry",
+    "text": "General dentists offer preventive and restorative services, such as x-rays, teeth cleanings, cavity fillings, and sealants. Unlike specialists, who focus on one specific area of dentistry, general dentists offer a wide range of treatments and procedures. They also treat patients of all ages."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Dental Fillings",
+    "shortDescription": "A dental filling is a procedure used to fill a hole, or cavity, in a tooth. You may need a filling if you have tooth decay or if the structure of the tooth is lost due to trauma.",
+    "description": "To treat a cavity your dentist will remove the decayed portion of the tooth and then fill the area on the tooth where the decayed material once lived.Fillings are also used to repair cracked or broken teeth and teeth that have been worn down from misuse (such as from nail-biting or tooth grinding).",
+    "image": "https://i.ibb.co/R6cHHJG/dental-filling.jpg",
+    "image2": "https://i.ibb.co/r5ZrLQ8/RW8-RNi-Ni-DFHLko-Z45i-GIfj-Di3g-DF-Ogh-Hr-BJx58n-Lho-RMEh5c7-F840-Jgif-BD2-EFZu-CPS2-MBS4-Au-Eg-Noh.jpg",
+    "howWeDo": "A dental filling treats tooth decay. Having a filling can prevent further damage, reduce the risks of pain and infection, and help maintain overall dental health.There are different types of fillings, including amalgam, gold, composite, and glass ionomer.After having a filling, a person may experience mild sensitivity or discomfort. Anyone who experiences more significant pain or sensitivity, or signs of an infection, such as a fever or swelling, can contact us.Using a drill or another specialized tool, the dentist removes the decayed area of the tooth. They then fill the hole in the tooth. Lastly, they polish the filling and may adjust it so that the person's bite feels normal.",
+    "whenToDo": "Pain in the tooth, including tooth aches, throbbing pains and sharp pains.Pain or sensitivity in the tooth when you touch it or put pressure on it (e.g. when eating, brushing).A visible hole in the tooth or mark that might indicate a hole exists.Dental floss that keeps fraying when you floss between a particular set of teeth.A rough or jagged feeling in the tooth when you run your tongue over it.If you don’t experience any of these symptoms, however, it is still possible that tooth decay may be present and that you will need a filling. This is often the case with smaller holes that may exist in your teeth, but that won’t necessarily cause you any pain or discomfort.",
+    "benefits": "Stops the cavity from growing. When you get a filling, your dentist will clean out the decayed part of your tooth.Improves the structure of the tooth.Strengthens fractured teeth.Tooth fillings the color of your teeth.Protects your teeth from decay."
+  },
+  {
+    "id": 2,
+    "name": "Root Canal Treatment",
+    "shortDescription": "Root canal treatment is a dental procedure used to treat infection at the centre of a tooth.Root canal treatment is not painful and can save a tooth that might otherwise have to be removed completely.",
+    "description": "Root canal therapy, also known as endodontic therapy, is a dental treatment for removing infection from inside a tooth. It can also protect the tooth from future infections.It is carried out in the pulp of the tooth, which is the root canal.",
+    "image": "https://i.ibb.co/c2FBTV3/root-canal.jpg",
+    "image2": "https://i.ibb.co/D9m5VNC/images-q-tbn-ANd9-Gc-Sy-ZAnnqxetp-9-Nh-Bzb5-HK-HGuv-OEz-PP0v-Rp-A-usqp-CAU.jpg",
+    "howWeDo": "This procedure restores the strength of your tooth. Your pain and discomfort are gone as soon as your root canal is over, and you have full use of your tooth once again.We are utilising the most advanced equipments & techniques when performing a Tooth Root Canal Therapy. We are committed to keep you comfortable. We’ll utilise every possible option to make the procedure quick and comfortable.No matter how badly damaged your teeth are, we are committed to help you restore them. We’ll protect your natural teeth whenever possible. We believe in keeping your teeth healthy from the inside out. We’re here for you when you need a difficult procedure like a Root Canal Therapy.",
+    "whenToDo": "Persistent pain. Persistent tooth pain is one of the signs that you may need a root canal.Sensitivity to heat and cold.Tooth discoloration.Swollen gums.Pain when you eat or touch the tooth.A chipped or cracked tooth. Tooth mobility.When your tooth is infected, it may feel looser.“This can be caused by other factors besides pulpal necrosis (nerve death), but it can be a sign that a root canal is necessary,” said Rothschild. “Acidic waste products from nerve death can soften the bone around the root of a dying tooth, causing mobility.”",
+    "benefits": "It Stops the Spread of Infection to Neighboring Teeth. A toothache or tooth decay is caused by an infection on the tooth cavity.It has a Virtually Appealing Result.It Aims to Save Your Teeth. It Prevents the Jawbone to Degenerate.It Enhances Oral and Overall Health."
+  },
+  {
+    "id": 3,
+    "name": "Orthodontics",
+    "shortDescription": "Orthodontics therefore describes the practice of straightening misaligned teeth or malocclusions. Dentists who specialize in orthodontics can help manage abnormal positioning of the teeth, jaws and face.",
+    "description": "Orthodontics is a branch of dentistry that treats malocclusion, a condition in which the teeth are not correctly positioned when the mouth is closed. This results in an improper bite.An orthodontist specializes in making the teeth straight.Treatment can be cosmetic, to improve a person’s appearance, but it often aims to improve oral function, too.",
+    "image": "https://i.ibb.co/ZzvkDCm/Depositphotos-18730979-original.jpg",
+    "image2": "https://i.ibb.co/LhXvMWR/getimage.jpg",
+    "howWeDo": "Many people have crowded or crooked teeth. Orthodontic treatment will straighten the teeth or move them into a better position. This can improve their appearance and the way the teeth bite together, while also making them easier to clean.Some people have upper front teeth that stick out and look unsightly. These 'prominent' teeth are more likely to be damaged, but orthodontic treatment can move them back into line. Or the way the upper and lower jaws meet can cause teeth to look unsightly and lead to an incorrect bite. Orthodontic treatment may be able to correct both of these problems.When the teeth don't meet correctly, this can put strain on the muscles of the jaw, causing jaw and joint problems and sometimes headaches. Orthodontic treatment can help you to bite more evenly and reduce the strain.",
+    "whenToDo": "It’s natural to have questions about orthodontic treatment for your child, especially if its the first child to get braces in your family.One of the most common questions we get asked is how early is too early to get braces? While people of any age can benefit from braces, The Australian Society of Orthodontists recommends children visit a registered specialist orthodontist for an assessment between the ages of 8-10 years old. This allows the orthodontist to evaluate your child’s teeth and determine if they may need early treatment. This includes existing teeth and those that are yet to break the surface.How do I know if my child needs early orthodontic treatment? Answer:Early loss of baby teeth (before age five)If your child’s properly at all when biting Mouth breathing and/or snoring",
+    "benefits": "Orthodontic treatment can improve dental health as it improves your looks. Straight, well-aligned teeth are easier to clean and maintain. Correcting orthodontic problems can help prevent tooth decay, gum disease and even tooth loss."
+  },
+  {
+    "id": 4,
+    "name": "Teeth Whitening",
+    "shortDescription": "Tooth whitening is any process that lightens the color of a tooth. Whitening may be accomplished by physical removal of the stain or a chemical reaction to lighten the tooth color.",
+    "description": "Everyone notices a bright, white, glowing smile. And everyone notices how confident you feel when you have that beautiful smile. That’s why we utilize long-lasting Teeth Whitening procedure — because we want you to glow with pride and confidence.",
+    "image": "https://i.ibb.co/JQnPvFh/teeth-whitening.jpg",
+    "image2": "https://i.ibb.co/bL67cXF/teeth-whitening.png",
+    "howWeDo": "With professional Teeth Whitening treatment, you can enjoy the boost in confidence of a bright, white smile. At LASER DENTAL, we trust the best Teeth Whitening Opalescence BOOST system for best long lasting results. At your Initial appointment, Dr. Shihabur Rahman will discuss about Teeth Whitening treatment. He will also note down your expectations. Now you can get the glamorous smile you have always wanted.",
+    "whenToDo": "Many times teeth are beautifully shaped, but are with dark color. Bleaching is the perfect solution to get a brighter & whiter smile.Many times, your Natural Teeth Whitening will be a part of a comprehensive plan to bring your smile back to life. Dr. Shihabur Rahman usually recommends Teeth Whitening treatment before any Cosmetic dental treatment.",
+    "benefits": "Its benefit are:A Brighter Smile.Enhanced Self-EsteemBetter Oral Health. Customized & Professional Teeth Whitening Method. Precise Personalization. Speedy Procedure. Long-Lasting Results. Safer Treatment."
+  },
+  {
+    "id": 5,
+    "name": "Tooth Extraction",
+    "shortDescription": "Tooth extraction refers to the complete removal of one or more teeth from the mouth. This is a procedure that is usually performed by a dental surgeon.",
+    "description": "A tooth extraction is the permanent removal of a tooth from its socket and may be done manually using forceps or surgically. Extraction is recommended when the tooth cannot be saved with other treatments such as root canal treatment and to prevent infection from spreading to other areas of your mouth. It may also be performed to extract extra teeth.",
+    "image": "https://i.ibb.co/VDX6sb5/Depositphotos-66190445-original.jpg",
+    "image2": "https://i.ibb.co/VNtZWKK/extractions.jpg",
+    "howWeDo": "A tooth that can be seen in the mouth is extracted. First, the tooth is loosened with an instrument called an elevator. The dentist then uses forceps to remove the tooth. Tooth extraction begins with a shot of anaesthetic for the tooth, gum and bone tissue surrounding it.A surgical procedure is necessary if the tooth has not erupted in the mouth or if it broke at the gum line. In this, our dental surgeon make a small incision into the gum to remove the impacted wisdom tooth or broken tooth",
+    "whenToDo": "If you know you have an upcoming event, like a wedding, family get-together, school reunion, or another important social event, you can schedule your whitening weeks in advance. We recommend getting this cosmetic procedure about four to six weeks prior to your special event. This gives you enough time to whiten your teeth and for your teeth to overcome any temporary sensitivity caused by the whitening process.",
+    "benefits": "Relieve you from pain. Plenty of times, patients go to the dental office with a complaint.Removing the problem itself. An infection in the tooth could rapidly spread making it harder to treat. Saving the rest of your teeth. Make way for a beautiful smile."
+  },
+  {
+    "id": 6,
+    "name": "Routine Dental Exam",
+    "shortDescription": "Regular dental exams are a critical part of preventive health care. During a dental exam, the dentist or hygienist will clean your teeth and check for cavities and gum disease.",
+    "description": "Regular dental exams are a critical part of preventive health care. During a dental exam, the dentist or hygienist will clean your teeth and check for cavities and gum disease. The exam includes evaluating your risk of developing other oral problems and checking your face, neck and mouth for abnormalities.",
+    "image": "https://i.ibb.co/5cm2KXP/dental-exam.jpg",
+    "image2": "https://i.ibb.co/kMwPgk7/Woman-receiving-a-dental-treatment.jpg",
+    "howWeDo": "Regular dental check-ups are important for maintaining good oral hygiene and health. By going for regular check-ups, your dentist will be able to help you detect any dental problems ahead of time. We recommend you get a check-up every six months.At Trusmile, we want you to have the best experience possible. This is what we call the Smiles Dental Experience. Following your check-up, we provide you with a detailed treatment plan and estimation of pricing. This is before you begin whatever treatment necessary for your particular dental health needs. We do this so you can fully understand your options and all costs involved ahead of treatment. We always ‘inform before we perform’ so you don’t get any surprises.",
+    "whenToDo": "How Often Should You Have A Dental Exam? Your dentist will use the information gathered about your oral health to determine a personalized schedule for regular maintenance, cleaning, and check-ups. Generally, for people with a healthy mouth, dentists recommend their patients to visit them every six months.",
+    "benefits": "Dental checkups prevent plaque, tartar, cavities and tooth decay. Routine dental visits keep gum disease at bay. Dentists use routine checkups to check for oral cancer. Routine checkups can detect systemic health issues. Stay on top of your dental health with regular checkups."
+  }
+]

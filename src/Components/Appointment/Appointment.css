@@ -1,0 +1,54 @@
+.appointment-form form input,
+.appointment-form form textarea {
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  -webkit-box-shadow: 5.288px 11.876px 40px 0px rgba(0, 0, 0, 0.05);
+  box-shadow: 5.288px 11.876px 40px 0px rgba(0, 0, 0, 0.05);
+  height: 68px;
+  border: none;
+  line-height: 68px;
+  width: 100%;
+  color: #666;
+  font-size: 16px;
+  padding-left: 30px;
+  font-weight: 300;
+  margin-top: 30px;
+}
+
+.appointment-form form input::-webkit-input-placeholder,
+.appointment-form form textarea::-webkit-input-placeholder {
+  color: #666;
+  text-transform: capitalize;
+}
+
+.appointment-form form input::-moz-placeholder,
+.appointment-form form textarea::-moz-placeholder {
+  color: #666;
+  text-transform: capitalize;
+}
+
+.appointment-form form input:-ms-input-placeholder,
+.appointment-form form textarea:-ms-input-placeholder {
+  color: #666;
+  text-transform: capitalize;
+}
+
+.appointment-form form input::-ms-input-placeholder,
+.appointment-form form textarea::-ms-input-placeholder {
+  color: #666;
+  text-transform: capitalize;
+}
+
+.appointment-form form input::placeholder,
+.appointment-form form textarea::placeholder {
+  color: #666;
+  text-transform: capitalize;
+}
+
+.appointment-form form textarea {
+  min-height: 150px;
+}
+
+.appointment-promo-wrapper {
+  overflow: hidden;
+}
